@@ -1,5 +1,5 @@
 # Covid-19 Landing Page
-## Demo link : 
+## Demo Link : 
 ```
 https://2kthanhlong.github.io/Covid-19_Landing_Page/ 
 ```
